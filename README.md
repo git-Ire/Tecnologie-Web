@@ -1,5 +1,5 @@
 # Tecnologie-Web
-Progetto universitario per il corso Tecnologie Web 2021-2022
+Progetto universitario per il corso Tecnologie Web 2021-2022.
 L'impianto sciistico è fittizio e puramente inventato
 
 Creazione di un sito web rispettando l'accessibilità per tutte le categorie di utenti.
